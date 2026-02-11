@@ -425,8 +425,8 @@ The Web3 社区不是“上完课就结束”的培训机构，而是 Builder �
 
 ## 四. 线下空间环境
 学员可按需选择深圳或天津线下学习点，舒适环境搭配零食饮料支持，打造高专注度的沉浸式学习氛围。
-[图片]
-[图片]
+[![Dapplink](https://github.com/the-web3/product2026-outline/blob/main/iamges/shenzhen.png)](https://github.com/the-web3)
+[![Dapplink](https://github.com/the-web3/product2026-outline/blob/main/iamges/tianjin.png)](https://github.com/the-web3)
 
 ## 五.学习方式与费用
 - 学习方式：线上加线下，两者享受的服务是一样的。
